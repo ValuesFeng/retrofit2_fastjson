@@ -1,4 +1,4 @@
-# retrofit_fastjson
+# retrofit2_fastjson
 use for retrofit 2.0 converterFactory
 
 ### Retrofit github: [retrofit](https://github.com/square/retrofit)  
